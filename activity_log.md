@@ -5,3 +5,4 @@
 - [2026-03-26T19:48:17Z] feat: add helper utility function
 - [2026-03-26T08:19:01Z] chore: remove deprecated API calls
 - [2026-03-26T22:21:45Z] chore: remove deprecated API calls
+- [2026-03-26T09:39:28Z] chore: remove deprecated API calls
